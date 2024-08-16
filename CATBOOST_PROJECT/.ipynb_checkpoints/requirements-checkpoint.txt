@@ -1,0 +1,8 @@
+pandas
+numpy==1.26
+scikit-learn
+catboost
+optuna
+matplotlib
+seaborn
+shap
