@@ -1,4 +1,4 @@
-## Modeling workflow of Classification problem using Catboost along with data preprocessing,modeling with hyperparameter tuning and post analysis of model
+## Simple modeling workflow of Classification problem using Catboost along with data preprocessing,modeling with hyperparameter tuning and post analysis of model
 -------------------------------
 **This repo includes a classification modeling flow 'Tutorial' using Catboost model,that covers the following:**
 * Preprocessing the data
