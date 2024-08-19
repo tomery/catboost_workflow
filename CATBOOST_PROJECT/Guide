@@ -12,7 +12,7 @@ Some elements missing here:
 3.Probablity calibration for classification problems
 4.Different Hyperparameters to tune
 5.Additional Explanability options ( using SHAP and others )
-6.Custom loss function
+6.Custom loss function and different eval-function (e.g PRAUC )
 7.
 
 
